@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkverybox_tools=self.webpackChunkverybox_tools||[]).push([[230],{83230:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var s=n(33497),u=n(46417);function o(){return(0,u.jsx)(s.Z,{title:"Mint Genesis"})}}}]);
