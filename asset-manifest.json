@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.8e71fdec.css",
-    "main.js": "/static/js/main.fe8bc735.js",
+    "main.js": "/static/js/main.5a185240.js",
     "static/js/992.29623e31.chunk.js": "/static/js/992.29623e31.chunk.js",
     "static/js/230.3a694deb.chunk.js": "/static/js/230.3a694deb.chunk.js",
     "static/js/810.0a1b8b83.chunk.js": "/static/js/810.0a1b8b83.chunk.js",
     "static/js/488.bca20a14.chunk.js": "/static/js/488.bca20a14.chunk.js",
     "static/js/359.3fe659bc.chunk.js": "/static/js/359.3fe659bc.chunk.js",
     "static/js/786.df751677.chunk.js": "/static/js/786.df751677.chunk.js",
-    "static/js/245.85354ac4.chunk.js": "/static/js/245.85354ac4.chunk.js",
+    "static/js/245.39f7b6ce.chunk.js": "/static/js/245.39f7b6ce.chunk.js",
     "static/js/442.48efbe0e.chunk.js": "/static/js/442.48efbe0e.chunk.js",
     "static/js/701.1c8f9d17.chunk.js": "/static/js/701.1c8f9d17.chunk.js",
     "static/js/103.33fb90ff.chunk.js": "/static/js/103.33fb90ff.chunk.js",
@@ -29,7 +29,7 @@
     "static/js/702.26ce8a00.chunk.js": "/static/js/702.26ce8a00.chunk.js",
     "static/js/229.1770a023.chunk.js": "/static/js/229.1770a023.chunk.js",
     "static/js/390.604d875d.chunk.js": "/static/js/390.604d875d.chunk.js",
-    "static/js/493.477585e7.chunk.js": "/static/js/493.477585e7.chunk.js",
+    "static/js/723.d3a9d11e.chunk.js": "/static/js/723.d3a9d11e.chunk.js",
     "static/js/457.829fcb4b.chunk.js": "/static/js/457.829fcb4b.chunk.js",
     "static/js/444.9c1906f2.chunk.js": "/static/js/444.9c1906f2.chunk.js",
     "static/media/twitterAvater.jpg": "/static/media/twitterAvater.bc75466a2f352a2fc37b.jpg",
@@ -48,6 +48,6 @@
   },
   "entrypoints": [
     "static/css/main.8e71fdec.css",
-    "static/js/main.fe8bc735.js"
+    "static/js/main.5a185240.js"
   ]
 }
